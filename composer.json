@@ -1,0 +1,26 @@
+{
+    "name": "cral/dig",
+    "description": "dig for  Cral",
+    "keywords": ["dig", "cral", "yii2"],
+    "type": "yii2-extension",
+    "support": {
+        "issues": "https://github.com/phpinside/VendorTest/issues",
+        "source": "https://github.com/phpinside/VendorTest"
+    },
+    "require": {
+        "yiisoft/yii2": "~2.0.4"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Cral",
+            "email": "2485340@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "Cral\\Dig\\": ""
+        }
+    }
+}
