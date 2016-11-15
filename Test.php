@@ -15,7 +15,7 @@ class Test
 
     public static function sayHi($words)
     {
-        return 'Good Hi ,' . $words;
+        return 'Good Hi 2016 ,' . $words;
     }
 
 
